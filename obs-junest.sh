@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # NAME OF THE APP BY REPLACING "SAMPLE"
-APP=obs-studio
+APP=obs-studio-browser
 BIN="obs"
 DEPENDENCES="python3"
 #BASICSTUFF="binutils gzip"
